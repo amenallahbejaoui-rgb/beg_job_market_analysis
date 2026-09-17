@@ -1,0 +1,566 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,experience_name,employment_name,remote_name,salary_log_usd,tunisian_record,employee_continent,company_continent
+2020,MI,FT,Data Scientist,70000,EUR,79833,DE,0,DE,L,Mid-level,Full-time,On-site,11.28770475786082,False,Europe,Europe
+2020,SE,FT,Machine Learning Scientist,260000,USD,260000,JP,0,JP,S,Senior-level,Full-time,On-site,12.468440756144114,False,Asia,Asia
+2020,SE,FT,Big Data Engineer,85000,GBP,109024,GB,50,GB,M,Senior-level,Full-time,Hybrid,11.599332492710968,False,Europe,Europe
+2020,MI,FT,Product Data Analyst,20000,USD,20000,HN,0,HN,S,Mid-level,Full-time,On-site,9.90353755128617,False,North America,North America
+2020,SE,FT,Machine Learning Engineer,150000,USD,150000,US,50,US,L,Senior-level,Full-time,Hybrid,11.918397239722838,False,North America,North America
+2020,EN,FT,Data Analyst,72000,USD,72000,US,100,US,L,Entry-level,Full-time,Fully remote,11.184435286790631,False,North America,North America
+2020,SE,FT,Lead Data Scientist,190000,USD,190000,US,100,US,S,Senior-level,Full-time,Fully remote,12.154784614286667,False,North America,North America
+2020,MI,FT,Data Scientist,11000000,HUF,35735,HU,50,HU,L,Mid-level,Full-time,Hybrid,10.483913863031955,False,Other,Other
+2020,MI,FT,Business Data Analyst,135000,USD,135000,US,100,US,L,Mid-level,Full-time,Fully remote,11.813037464800539,False,North America,North America
+2020,SE,FT,Lead Data Engineer,125000,USD,125000,NZ,50,NZ,S,Senior-level,Full-time,Hybrid,11.736077016252437,False,Oceania,Oceania
+2020,EN,FT,Data Scientist,45000,EUR,51321,FR,0,FR,S,Entry-level,Full-time,On-site,10.845874789131557,False,Europe,Europe
+2020,MI,FT,Data Scientist,3000000,INR,40481,IN,0,IN,L,Mid-level,Full-time,On-site,10.60861270985548,False,Asia,Asia
+2020,EN,FT,Data Scientist,35000,EUR,39916,FR,0,FR,M,Entry-level,Full-time,On-site,10.594557577300874,False,Europe,Europe
+2020,MI,FT,Lead Data Analyst,87000,USD,87000,US,100,US,L,Mid-level,Full-time,Fully remote,11.373674891823535,False,North America,North America
+2020,MI,FT,Data Analyst,85000,USD,85000,US,100,US,L,Mid-level,Full-time,Fully remote,11.350418300109132,False,North America,North America
+2020,MI,FT,Data Analyst,8000,USD,8000,PK,50,PK,L,Mid-level,Full-time,Hybrid,8.987321812850125,False,Asia,Asia
+2020,EN,FT,Data Engineer,4450000,JPY,41689,JP,100,JP,S,Entry-level,Full-time,Fully remote,10.638016570874843,False,Asia,Asia
+2020,SE,FT,Big Data Engineer,100000,EUR,114047,PL,100,GB,S,Senior-level,Full-time,Fully remote,11.644374691390427,False,Europe,Europe
+2020,EN,FT,Data Science Consultant,423000,INR,5707,IN,50,IN,M,Entry-level,Full-time,Hybrid,8.649623978596727,False,Asia,Asia
+2020,MI,FT,Lead Data Engineer,56000,USD,56000,PT,100,US,M,Mid-level,Full-time,Fully remote,10.933124826700707,False,Europe,North America
+2020,MI,FT,Machine Learning Engineer,299000,CNY,43331,CN,0,CN,M,Mid-level,Full-time,On-site,10.676646671065457,False,Asia,Asia
+2020,MI,FT,Product Data Analyst,450000,INR,6072,IN,100,IN,L,Mid-level,Full-time,Fully remote,8.711607995897575,False,Asia,Asia
+2020,SE,FT,Data Engineer,42000,EUR,47899,GR,50,GR,L,Senior-level,Full-time,Hybrid,10.776870783399007,False,Europe,Europe
+2020,MI,FT,BI Data Analyst,98000,USD,98000,US,0,US,M,Mid-level,Full-time,On-site,11.49273296168228,False,North America,North America
+2020,MI,FT,Lead Data Scientist,115000,USD,115000,AE,0,AE,L,Mid-level,Full-time,On-site,11.652696102959753,False,Asia,Asia
+2020,EX,FT,Director of Data Science,325000,USD,325000,US,100,US,L,Executive,Full-time,Fully remote,12.691583538230217,False,North America,North America
+2020,EN,FT,Research Scientist,42000,USD,42000,NL,50,NL,L,Entry-level,Full-time,Hybrid,10.645448706505872,False,Europe,Europe
+2020,SE,FT,Data Engineer,720000,MXN,33511,MX,0,MX,S,Senior-level,Full-time,On-site,10.419658862626871,False,North America,North America
+2020,EN,CT,Business Data Analyst,100000,USD,100000,US,100,US,L,Entry-level,Contract,Fully remote,11.51293546492023,False,North America,North America
+2020,SE,FT,Machine Learning Manager,157000,CAD,117104,CA,50,CA,L,Senior-level,Full-time,Hybrid,11.6708262472225,False,North America,North America
+2020,MI,FT,Data Engineering Manager,51999,EUR,59303,DE,100,DE,S,Mid-level,Full-time,Fully remote,10.990432036336555,False,Europe,Europe
+2020,EN,FT,Big Data Engineer,70000,USD,70000,US,100,US,L,Entry-level,Full-time,Fully remote,11.156264806643742,False,North America,North America
+2020,SE,FT,Data Scientist,60000,EUR,68428,GR,100,US,L,Senior-level,Full-time,Fully remote,11.133551990366144,False,Europe,North America
+2020,MI,FT,Research Scientist,450000,USD,450000,US,0,US,M,Mid-level,Full-time,On-site,13.017005083966255,False,North America,North America
+2020,MI,FT,Data Analyst,41000,EUR,46759,FR,50,FR,L,Mid-level,Full-time,Hybrid,10.752783415586006,False,Europe,Europe
+2020,MI,FT,Data Engineer,65000,EUR,74130,AT,50,AT,L,Mid-level,Full-time,Hybrid,11.213589077374968,False,Europe,Europe
+2020,MI,FT,Data Science Consultant,103000,USD,103000,US,100,US,L,Mid-level,Full-time,Fully remote,11.542493975902508,False,North America,North America
+2020,EN,FT,Machine Learning Engineer,250000,USD,250000,US,50,US,L,Entry-level,Full-time,Hybrid,12.429220196836383,False,North America,North America
+2020,EN,FT,Data Analyst,10000,USD,10000,NG,100,NG,S,Entry-level,Full-time,Fully remote,9.210440366976517,False,Africa,Africa
+2020,EN,FT,Machine Learning Engineer,138000,USD,138000,US,100,US,S,Entry-level,Full-time,Fully remote,11.835016210489899,False,North America,North America
+2020,MI,FT,Data Scientist,45760,USD,45760,PH,100,US,S,Mid-level,Full-time,Fully remote,10.731187478961756,False,Other,North America
+2020,EX,FT,Data Engineering Manager,70000,EUR,79833,ES,50,ES,L,Executive,Full-time,Hybrid,11.28770475786082,False,Europe,Europe
+2020,MI,FT,Machine Learning Infrastructure Engineer,44000,EUR,50180,PT,0,PT,M,Mid-level,Full-time,On-site,10.823391747980118,False,Europe,Europe
+2020,MI,FT,Data Engineer,106000,USD,106000,US,100,US,L,Mid-level,Full-time,Fully remote,11.571203807011969,False,North America,North America
+2020,MI,FT,Data Engineer,88000,GBP,112872,GB,50,GB,L,Mid-level,Full-time,Hybrid,11.634018571846916,False,Europe,Europe
+2020,EN,PT,ML Engineer,14000,EUR,15966,DE,100,DE,S,Entry-level,Part-time,Fully remote,9.678279371339702,False,Europe,Europe
+2020,MI,FT,Data Scientist,60000,GBP,76958,GB,100,GB,S,Mid-level,Full-time,Fully remote,11.251028091492175,False,Europe,Europe
+2020,SE,FT,Data Engineer,188000,USD,188000,US,100,US,L,Senior-level,Full-time,Fully remote,12.144202560946876,False,North America,North America
+2020,MI,FT,Data Scientist,105000,USD,105000,US,100,US,L,Mid-level,Full-time,Fully remote,11.561725152903833,False,North America,North America
+2020,MI,FT,Data Engineer,61500,EUR,70139,FR,50,FR,L,Mid-level,Full-time,Hybrid,11.15824852369417,False,Europe,Europe
+2020,EN,FT,Data Analyst,450000,INR,6072,IN,0,IN,S,Entry-level,Full-time,On-site,8.711607995897575,False,Asia,Asia
+2020,EN,FT,Data Analyst,91000,USD,91000,US,100,US,L,Entry-level,Full-time,Fully remote,11.418625774449598,False,North America,North America
+2020,EN,FT,AI Scientist,300000,DKK,45896,DK,50,DK,S,Entry-level,Full-time,Hybrid,10.734155034435489,False,Europe,Europe
+2020,EN,FT,Data Engineer,48000,EUR,54742,PK,100,DE,L,Entry-level,Full-time,Fully remote,10.910404785623465,False,Asia,Europe
+2020,SE,FL,Computer Vision Engineer,60000,USD,60000,RU,100,US,S,Senior-level,Freelance,Fully remote,11.002116507732017,False,Europe,North America
+2020,SE,FT,Principal Data Scientist,130000,EUR,148261,DE,100,DE,M,Senior-level,Full-time,Fully remote,11.906736257934913,False,Europe,Europe
+2020,MI,FT,Data Scientist,34000,EUR,38776,ES,100,ES,M,Mid-level,Full-time,Fully remote,10.565582566340604,False,Europe,Europe
+2020,MI,FT,Data Scientist,118000,USD,118000,US,100,US,M,Mid-level,Full-time,Fully remote,11.678448377988165,False,North America,North America
+2020,SE,FT,Data Scientist,120000,USD,120000,US,50,US,L,Senior-level,Full-time,Hybrid,11.695255355062795,False,North America,North America
+2020,MI,FT,Data Scientist,138350,USD,138350,US,100,US,M,Mid-level,Full-time,Fully remote,11.837549213233764,False,North America,North America
+2020,MI,FT,Data Engineer,110000,USD,110000,US,100,US,L,Mid-level,Full-time,Fully remote,11.608244735642321,False,North America,North America
+2020,MI,FT,Data Engineer,130800,USD,130800,ES,100,US,M,Mid-level,Full-time,Fully remote,11.781432363235949,False,Europe,North America
+2020,EN,PT,Data Scientist,19000,EUR,21669,IT,50,IT,S,Entry-level,Part-time,Hybrid,9.983684094530405,False,Europe,Europe
+2020,SE,FT,Data Scientist,412000,USD,412000,US,100,US,L,Senior-level,Full-time,Fully remote,12.928781055513184,False,North America,North America
+2020,SE,FT,Machine Learning Engineer,40000,EUR,45618,HR,100,HR,S,Senior-level,Full-time,Fully remote,10.728079575387694,False,Europe,Europe
+2020,EN,FT,Data Scientist,55000,EUR,62726,DE,50,DE,S,Entry-level,Full-time,Hybrid,11.046547255939533,False,Europe,Europe
+2020,EN,FT,Data Scientist,43200,EUR,49268,DE,0,DE,S,Entry-level,Full-time,On-site,10.805050359005671,False,Europe,Europe
+2020,SE,FT,Data Science Manager,190200,USD,190200,US,100,US,M,Senior-level,Full-time,Fully remote,12.155836686703159,False,North America,North America
+2020,EN,FT,Data Scientist,105000,USD,105000,US,100,US,S,Entry-level,Full-time,Fully remote,11.561725152903833,False,North America,North America
+2020,SE,FT,Data Scientist,80000,EUR,91237,AT,0,AT,S,Senior-level,Full-time,On-site,11.42122675594764,False,Europe,Europe
+2020,MI,FT,Data Scientist,55000,EUR,62726,FR,50,LU,S,Mid-level,Full-time,Hybrid,11.046547255939533,False,Europe,Europe
+2020,MI,FT,Data Scientist,37000,EUR,42197,FR,50,FR,S,Mid-level,Full-time,Hybrid,10.650128105536073,False,Europe,Europe
+2021,EN,FT,Research Scientist,60000,GBP,82528,GB,50,GB,L,Entry-level,Full-time,Hybrid,11.320905025707312,False,Europe,Europe
+2021,EX,FT,BI Data Analyst,150000,USD,150000,IN,100,US,L,Executive,Full-time,Fully remote,11.918397239722838,False,Asia,North America
+2021,EX,FT,Head of Data,235000,USD,235000,US,100,US,L,Executive,Full-time,Fully remote,12.367345048436391,False,North America,North America
+2021,SE,FT,Data Scientist,45000,EUR,53192,FR,50,FR,L,Senior-level,Full-time,Hybrid,10.881682087725098,False,Europe,Europe
+2021,MI,FT,BI Data Analyst,100000,USD,100000,US,100,US,M,Mid-level,Full-time,Fully remote,11.51293546492023,False,North America,North America
+2021,MI,PT,3D Computer Vision Researcher,400000,INR,5409,IN,50,IN,M,Mid-level,Part-time,Hybrid,8.596004371840527,False,Asia,Asia
+2021,MI,CT,ML Engineer,270000,USD,270000,US,100,US,L,Mid-level,Contract,Fully remote,12.506180941677357,False,North America,North America
+2021,EN,FT,Data Analyst,80000,USD,80000,US,100,US,M,Entry-level,Full-time,Fully remote,11.289794413577894,False,North America,North America
+2021,SE,FT,Data Analytics Engineer,67000,EUR,79197,DE,100,DE,L,Senior-level,Full-time,Fully remote,11.279706324958415,False,Europe,Europe
+2021,MI,FT,Data Engineer,140000,USD,140000,US,100,US,L,Mid-level,Full-time,Fully remote,11.849404844423074,False,North America,North America
+2021,MI,FT,Applied Data Scientist,68000,CAD,54238,GB,50,CA,L,Mid-level,Full-time,Hybrid,10.90115548586615,False,Europe,North America
+2021,MI,FT,Machine Learning Engineer,40000,EUR,47282,ES,100,ES,S,Mid-level,Full-time,Fully remote,10.76390610184365,False,Europe,Europe
+2021,EX,FT,Director of Data Science,130000,EUR,153667,IT,100,PL,L,Executive,Full-time,Fully remote,11.94254971006262,False,Europe,Europe
+2021,MI,FT,Data Engineer,110000,PLN,28476,PL,100,PL,L,Mid-level,Full-time,Fully remote,10.25685202289892,False,Europe,Europe
+2021,EN,FT,Data Analyst,50000,EUR,59102,FR,50,FR,M,Entry-level,Full-time,Hybrid,10.987036963527192,False,Europe,Europe
+2021,MI,FT,Data Analytics Engineer,110000,USD,110000,US,100,US,L,Mid-level,Full-time,Fully remote,11.608244735642321,False,North America,North America
+2021,SE,FT,Lead Data Analyst,170000,USD,170000,US,100,US,L,Senior-level,Full-time,Fully remote,12.04355959836804,False,North America,North America
+2021,SE,FT,Data Analyst,80000,USD,80000,BG,100,US,S,Senior-level,Full-time,Fully remote,11.289794413577894,False,Other,North America
+2021,SE,FT,Marketing Data Analyst,75000,EUR,88654,GR,100,DK,L,Senior-level,Full-time,Fully remote,11.392507711491088,False,Europe,Europe
+2021,EN,FT,Data Science Consultant,65000,EUR,76833,DE,100,DE,S,Entry-level,Full-time,Fully remote,11.249402529502674,False,Europe,Europe
+2021,MI,FT,Lead Data Analyst,1450000,INR,19609,IN,100,IN,L,Mid-level,Full-time,Fully remote,9.883794919190391,False,Asia,Asia
+2021,SE,FT,Lead Data Engineer,276000,USD,276000,US,0,US,L,Senior-level,Full-time,On-site,12.52815976788113,False,North America,North America
+2021,EN,FT,Data Scientist,2200000,INR,29751,IN,50,IN,L,Entry-level,Full-time,Hybrid,10.300651635604906,False,Asia,Asia
+2021,MI,FT,Cloud Data Engineer,120000,SGD,89294,SG,50,SG,L,Mid-level,Full-time,Hybrid,11.3997007742556,False,Asia,Asia
+2021,EN,PT,AI Scientist,12000,USD,12000,BR,100,US,S,Entry-level,Part-time,Fully remote,9.392745258631441,False,South America,North America
+2021,MI,FT,Financial Data Analyst,450000,USD,450000,US,100,US,L,Mid-level,Full-time,Fully remote,13.017005083966255,False,North America,North America
+2021,EN,FT,Computer Vision Software Engineer,70000,USD,70000,US,100,US,M,Entry-level,Full-time,Fully remote,11.156264806643742,False,North America,North America
+2021,MI,FT,Computer Vision Software Engineer,81000,EUR,95746,DE,100,US,S,Mid-level,Full-time,Fully remote,11.469464574959359,False,Europe,North America
+2021,MI,FT,Data Analyst,75000,USD,75000,US,0,US,L,Mid-level,Full-time,On-site,11.225256725762893,False,North America,North America
+2021,SE,FT,Data Engineer,150000,USD,150000,US,100,US,L,Senior-level,Full-time,Fully remote,11.918397239722838,False,North America,North America
+2021,MI,FT,BI Data Analyst,11000000,HUF,36259,HU,50,US,L,Mid-level,Full-time,Hybrid,10.498470484308841,False,Other,North America
+2021,MI,FT,Data Analyst,62000,USD,62000,US,0,US,L,Mid-level,Full-time,On-site,11.034905792929415,False,North America,North America
+2021,MI,FT,Data Scientist,73000,USD,73000,US,0,US,L,Mid-level,Full-time,On-site,11.19822841866684,False,North America,North America
+2021,MI,FT,Data Analyst,37456,GBP,51519,GB,50,GB,L,Mid-level,Full-time,Hybrid,10.849725360778235,False,Europe,Europe
+2021,MI,FT,Research Scientist,235000,CAD,187442,CA,100,CA,L,Mid-level,Full-time,Fully remote,12.141230078175235,False,North America,North America
+2021,SE,FT,Data Engineer,115000,USD,115000,US,100,US,S,Senior-level,Full-time,Fully remote,11.652696102959753,False,North America,North America
+2021,SE,FT,Data Engineer,150000,USD,150000,US,100,US,M,Senior-level,Full-time,Fully remote,11.918397239722838,False,North America,North America
+2021,EN,FT,Data Engineer,2250000,INR,30428,IN,100,IN,L,Entry-level,Full-time,Fully remote,10.323151380044106,False,Asia,Asia
+2021,SE,FT,Machine Learning Engineer,80000,EUR,94564,DE,50,DE,L,Senior-level,Full-time,Hybrid,11.457042707722556,False,Europe,Europe
+2021,SE,FT,Director of Data Engineering,82500,GBP,113476,GB,100,GB,M,Senior-level,Full-time,Fully remote,11.639355452196886,False,Europe,Europe
+2021,SE,FT,Lead Data Engineer,75000,GBP,103160,GB,100,GB,S,Senior-level,Full-time,Fully remote,11.544046153628019,False,Europe,Europe
+2021,EN,PT,AI Scientist,12000,USD,12000,PK,100,US,M,Entry-level,Part-time,Fully remote,9.392745258631441,False,Asia,North America
+2021,MI,FT,Data Engineer,38400,EUR,45391,NL,100,NL,L,Mid-level,Full-time,Fully remote,10.723091157048632,False,Europe,Europe
+2021,EN,FT,Machine Learning Scientist,225000,USD,225000,US,100,US,L,Entry-level,Full-time,Fully remote,12.323860125621126,False,North America,North America
+2021,MI,FT,Data Scientist,50000,USD,50000,NG,100,NG,L,Mid-level,Full-time,Fully remote,10.819798284210286,False,Africa,Africa
+2021,MI,FT,Data Science Engineer,34000,EUR,40189,GR,100,GR,M,Mid-level,Full-time,Fully remote,10.601373487443247,False,Europe,Europe
+2021,EN,FT,Data Analyst,90000,USD,90000,US,100,US,S,Entry-level,Full-time,Fully remote,11.407576060361786,False,North America,North America
+2021,MI,FT,Data Engineer,200000,USD,200000,US,100,US,L,Mid-level,Full-time,Fully remote,12.206077645517674,False,North America,North America
+2021,MI,FT,Big Data Engineer,60000,USD,60000,ES,50,RO,M,Mid-level,Full-time,Hybrid,11.002116507732017,False,Europe,Europe
+2021,SE,FT,Principal Data Engineer,200000,USD,200000,US,100,US,M,Senior-level,Full-time,Fully remote,12.206077645517674,False,North America,North America
+2021,EN,FT,Data Analyst,50000,USD,50000,US,100,US,M,Entry-level,Full-time,Fully remote,10.819798284210286,False,North America,North America
+2021,EN,FT,Applied Data Scientist,80000,GBP,110037,GB,0,GB,L,Entry-level,Full-time,On-site,11.608581039664324,False,Europe,Europe
+2021,EN,PT,Data Analyst,8760,EUR,10354,ES,50,ES,M,Entry-level,Part-time,Hybrid,9.245224773829685,False,Europe,Europe
+2021,MI,FT,Principal Data Scientist,151000,USD,151000,US,100,US,L,Mid-level,Full-time,Fully remote,11.92504173829169,False,North America,North America
+2021,SE,FT,Machine Learning Scientist,120000,USD,120000,US,50,US,S,Senior-level,Full-time,Hybrid,11.695255355062795,False,North America,North America
+2021,MI,FT,Data Scientist,700000,INR,9466,IN,0,IN,S,Mid-level,Full-time,On-site,9.15556734612889,False,Asia,Asia
+2021,EN,FT,Machine Learning Engineer,20000,USD,20000,IN,100,IN,S,Entry-level,Full-time,Fully remote,9.90353755128617,False,Asia,Asia
+2021,SE,FT,Lead Data Scientist,3000000,INR,40570,IN,50,IN,L,Senior-level,Full-time,Hybrid,10.610808804651954,False,Asia,Asia
+2021,EN,FT,Machine Learning Developer,100000,USD,100000,IQ,50,IQ,S,Entry-level,Full-time,Hybrid,11.51293546492023,False,Asia,Asia
+2021,EN,FT,Data Scientist,42000,EUR,49646,FR,50,FR,M,Entry-level,Full-time,Hybrid,10.812693244687052,False,Europe,Europe
+2021,MI,FT,Applied Machine Learning Scientist,38400,USD,38400,VN,100,US,M,Mid-level,Full-time,Fully remote,10.555838779903407,False,Asia,North America
+2021,SE,FT,Computer Vision Engineer,24000,USD,24000,BR,100,BR,M,Senior-level,Full-time,Fully remote,10.085850775128717,False,South America,South America
+2021,EN,FT,Data Scientist,100000,USD,100000,US,0,US,S,Entry-level,Full-time,On-site,11.51293546492023,False,North America,North America
+2021,MI,FT,Data Analyst,90000,USD,90000,US,100,US,M,Mid-level,Full-time,Fully remote,11.407576060361786,False,North America,North America
+2021,MI,FT,ML Engineer,7000000,JPY,63711,JP,50,JP,S,Mid-level,Full-time,Hybrid,11.062128206863923,False,Asia,Asia
+2021,MI,FT,ML Engineer,8500000,JPY,77364,JP,50,JP,S,Mid-level,Full-time,Hybrid,11.256289760923773,False,Asia,Asia
+2021,SE,FT,Principal Data Scientist,220000,USD,220000,US,0,US,L,Senior-level,Full-time,On-site,12.301387370778713,False,North America,North America
+2021,EN,FT,Data Scientist,80000,USD,80000,US,100,US,M,Entry-level,Full-time,Fully remote,11.289794413577894,False,North America,North America
+2021,MI,FT,Data Analyst,135000,USD,135000,US,100,US,L,Mid-level,Full-time,Fully remote,11.813037464800539,False,North America,North America
+2021,SE,FT,Data Science Manager,240000,USD,240000,US,0,US,L,Senior-level,Full-time,On-site,12.388398368982115,False,North America,North America
+2021,SE,FT,Data Engineering Manager,150000,USD,150000,US,0,US,L,Senior-level,Full-time,On-site,11.918397239722838,False,North America,North America
+2021,MI,FT,Data Scientist,82500,USD,82500,US,100,US,S,Mid-level,Full-time,Fully remote,11.320565693461432,False,North America,North America
+2021,MI,FT,Data Engineer,100000,USD,100000,US,100,US,L,Mid-level,Full-time,Fully remote,11.51293546492023,False,North America,North America
+2021,SE,FT,Machine Learning Engineer,70000,EUR,82744,BE,50,BE,M,Senior-level,Full-time,Hybrid,11.323518868453043,False,Europe,Europe
+2021,MI,FT,Research Scientist,53000,EUR,62649,FR,50,FR,M,Mid-level,Full-time,Hybrid,11.045318960324215,False,Europe,Europe
+2021,MI,FT,Data Engineer,90000,USD,90000,US,100,US,L,Mid-level,Full-time,Fully remote,11.407576060361786,False,North America,North America
+2021,SE,FT,Data Engineering Manager,153000,USD,153000,US,100,US,L,Senior-level,Full-time,Fully remote,11.938199736300925,False,North America,North America
+2021,SE,FT,Cloud Data Engineer,160000,USD,160000,BR,100,US,S,Senior-level,Full-time,Fully remote,11.982935344196433,False,South America,North America
+2021,SE,FT,Director of Data Science,168000,USD,168000,JP,0,JP,S,Senior-level,Full-time,On-site,12.031725210748633,False,Asia,Asia
+2021,MI,FT,Data Scientist,150000,USD,150000,US,100,US,M,Mid-level,Full-time,Fully remote,11.918397239722838,False,North America,North America
+2021,MI,FT,Data Scientist,95000,CAD,75774,CA,100,CA,L,Mid-level,Full-time,Fully remote,11.235523701926004,False,North America,North America
+2021,EN,FT,Data Scientist,13400,USD,13400,UA,100,UA,L,Entry-level,Full-time,Fully remote,9.503084610020228,False,Europe,Europe
+2021,SE,FT,Data Science Manager,144000,USD,144000,US,100,US,L,Senior-level,Full-time,Fully remote,11.87757552297847,False,North America,North America
+2021,SE,FT,Data Science Engineer,159500,CAD,127221,CA,50,CA,L,Senior-level,Full-time,Hybrid,11.753688870907842,False,North America,North America
+2021,MI,FT,Data Scientist,160000,SGD,119059,SG,100,IL,M,Mid-level,Full-time,Fully remote,11.687382846707381,False,Asia,Asia
+2021,MI,FT,Applied Machine Learning Scientist,423000,USD,423000,US,50,US,L,Mid-level,Full-time,Hybrid,12.955129822091815,False,North America,North America
+2021,SE,FT,Data Analytics Manager,120000,USD,120000,US,100,US,M,Senior-level,Full-time,Fully remote,11.695255355062795,False,North America,North America
+2021,EN,FT,Machine Learning Engineer,125000,USD,125000,US,100,US,S,Entry-level,Full-time,Fully remote,11.736077016252437,False,North America,North America
+2021,EX,FT,Head of Data,230000,USD,230000,RU,50,RU,L,Executive,Full-time,Hybrid,12.345838935721968,False,Europe,Europe
+2021,EX,FT,Head of Data Science,85000,USD,85000,RU,0,RU,M,Executive,Full-time,On-site,11.350418300109132,False,Europe,Europe
+2021,MI,FT,Data Engineer,24000,EUR,28369,MT,50,MT,L,Mid-level,Full-time,Hybrid,10.253087527802897,False,Europe,Europe
+2021,EN,FT,Data Science Consultant,54000,EUR,63831,DE,50,DE,L,Entry-level,Full-time,Hybrid,11.064009910988117,False,Europe,Europe
+2021,EX,FT,Director of Data Science,110000,EUR,130026,DE,50,DE,M,Executive,Full-time,Hybrid,11.77549740018035,False,Europe,Europe
+2021,SE,FT,Data Specialist,165000,USD,165000,US,100,US,L,Senior-level,Full-time,Fully remote,12.013706813470414,False,North America,North America
+2021,EN,FT,Data Engineer,80000,USD,80000,US,100,US,L,Entry-level,Full-time,Fully remote,11.289794413577894,False,North America,North America
+2021,EX,FT,Director of Data Science,250000,USD,250000,US,0,US,L,Executive,Full-time,On-site,12.429220196836383,False,North America,North America
+2021,EN,FT,BI Data Analyst,55000,USD,55000,US,50,US,S,Entry-level,Full-time,Hybrid,10.915106645867503,False,North America,North America
+2021,MI,FT,Data Architect,150000,USD,150000,US,100,US,L,Mid-level,Full-time,Fully remote,11.918397239722838,False,North America,North America
+2021,MI,FT,Data Architect,170000,USD,170000,US,100,US,L,Mid-level,Full-time,Fully remote,12.04355959836804,False,North America,North America
+2021,MI,FT,Data Engineer,60000,GBP,82528,GB,100,GB,L,Mid-level,Full-time,Fully remote,11.320905025707312,False,Europe,Europe
+2021,EN,FT,Data Analyst,60000,USD,60000,US,100,US,S,Entry-level,Full-time,Fully remote,11.002116507732017,False,North America,North America
+2021,SE,FT,Principal Data Scientist,235000,USD,235000,US,100,US,L,Senior-level,Full-time,Fully remote,12.367345048436391,False,North America,North America
+2021,SE,FT,Research Scientist,51400,EUR,60757,PT,50,PT,L,Senior-level,Full-time,Hybrid,11.01465403977559,False,Europe,Europe
+2021,SE,FT,Data Engineering Manager,174000,USD,174000,US,100,US,L,Senior-level,Full-time,Fully remote,12.066816325306588,False,North America,North America
+2021,MI,FT,Data Scientist,58000,MXN,2859,MX,0,MX,S,Mid-level,Full-time,On-site,7.958576903813898,False,North America,North America
+2021,MI,FT,Data Scientist,30400000,CLP,40038,CL,100,CL,L,Mid-level,Full-time,Fully remote,10.597609258092302,False,South America,South America
+2021,EN,FT,Machine Learning Engineer,81000,USD,81000,US,50,US,S,Entry-level,Full-time,Hybrid,11.302216779257382,False,North America,North America
+2021,MI,FT,Data Scientist,420000,INR,5679,IN,100,US,S,Mid-level,Full-time,Fully remote,8.644706511715198,False,Asia,North America
+2021,MI,FT,Big Data Engineer,1672000,INR,22611,IN,0,IN,L,Mid-level,Full-time,On-site,10.026236017795181,False,Asia,Asia
+2021,MI,FT,Data Scientist,76760,EUR,90734,DE,50,DE,L,Mid-level,Full-time,Hybrid,11.415698449209124,False,Europe,Europe
+2021,MI,FT,Data Engineer,22000,EUR,26005,RO,0,US,L,Mid-level,Full-time,On-site,10.166082559611265,False,Europe,North America
+2021,SE,FT,Finance Data Analyst,45000,GBP,61896,GB,50,GB,L,Senior-level,Full-time,Hybrid,11.033226992231649,False,Europe,Europe
+2021,MI,FL,Machine Learning Scientist,12000,USD,12000,PK,50,PK,M,Mid-level,Freelance,Hybrid,9.392745258631441,False,Asia,Asia
+2021,MI,FT,Data Engineer,4000,USD,4000,IR,100,IR,M,Mid-level,Full-time,Fully remote,8.294299608857235,False,Asia,Asia
+2021,SE,FT,Data Analytics Engineer,50000,USD,50000,VN,100,GB,M,Senior-level,Full-time,Fully remote,10.819798284210286,False,Asia,Europe
+2021,EX,FT,Data Science Consultant,59000,EUR,69741,FR,100,ES,S,Executive,Full-time,Fully remote,11.152557997765097,False,Europe,Europe
+2021,SE,FT,Data Engineer,65000,EUR,76833,RO,50,GB,S,Senior-level,Full-time,Hybrid,11.249402529502674,False,Europe,Europe
+2021,MI,FT,Machine Learning Engineer,74000,USD,74000,JP,50,JP,S,Mid-level,Full-time,Hybrid,11.211833885608513,False,Asia,Asia
+2021,SE,FT,Data Science Manager,152000,USD,152000,US,100,FR,L,Senior-level,Full-time,Fully remote,11.931642378754141,False,North America,Europe
+2021,EN,FT,Machine Learning Engineer,21844,USD,21844,CO,50,CO,M,Entry-level,Full-time,Hybrid,9.991727341385536,False,South America,South America
+2021,MI,FT,Big Data Engineer,18000,USD,18000,MD,0,MD,S,Mid-level,Full-time,On-site,9.798182590890704,False,Other,Other
+2021,SE,FT,Data Science Manager,174000,USD,174000,US,100,US,L,Senior-level,Full-time,Fully remote,12.066816325306588,False,North America,North America
+2021,SE,FT,Research Scientist,120500,CAD,96113,CA,50,CA,L,Senior-level,Full-time,Hybrid,11.473290265929538,False,North America,North America
+2021,MI,FT,Data Scientist,147000,USD,147000,US,50,US,L,Mid-level,Full-time,Hybrid,11.898194668458823,False,North America,North America
+2021,EN,FT,BI Data Analyst,9272,USD,9272,KE,100,KE,S,Entry-level,Full-time,Fully remote,9.134862230800225,False,Africa,Africa
+2021,SE,FT,Machine Learning Engineer,1799997,INR,24342,IN,100,IN,L,Senior-level,Full-time,Fully remote,10.09999961284942,False,Asia,Asia
+2021,SE,FT,Data Science Manager,4000000,INR,54094,IN,50,US,L,Senior-level,Full-time,Hybrid,10.898497039121674,False,Asia,North America
+2021,EN,FT,Data Science Consultant,90000,USD,90000,US,100,US,S,Entry-level,Full-time,Fully remote,11.407576060361786,False,North America,North America
+2021,MI,FT,Data Scientist,52000,EUR,61467,DE,50,AT,M,Mid-level,Full-time,Hybrid,11.026271993175223,False,Europe,Europe
+2021,SE,FT,Machine Learning Infrastructure Engineer,195000,USD,195000,US,100,US,M,Senior-level,Full-time,Fully remote,12.180759965737863,False,North America,North America
+2021,MI,FT,Data Scientist,32000,EUR,37825,ES,100,ES,L,Mid-level,Full-time,Fully remote,10.5407519758484,False,Europe,Europe
+2021,SE,FT,Research Scientist,50000,USD,50000,FR,100,US,S,Senior-level,Full-time,Fully remote,10.819798284210286,False,Europe,North America
+2021,MI,FT,Data Scientist,160000,USD,160000,US,100,US,L,Mid-level,Full-time,Fully remote,11.982935344196433,False,North America,North America
+2021,MI,FT,Data Scientist,69600,BRL,12901,BR,0,BR,S,Mid-level,Full-time,On-site,9.465137617092187,False,South America,South America
+2021,SE,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,L,Senior-level,Full-time,Fully remote,12.206077645517674,False,North America,North America
+2021,SE,FT,Data Engineer,165000,USD,165000,US,0,US,M,Senior-level,Full-time,On-site,12.013706813470414,False,North America,North America
+2021,MI,FL,Data Engineer,20000,USD,20000,IT,0,US,L,Mid-level,Freelance,On-site,9.90353755128617,False,Europe,North America
+2021,SE,FT,Data Analytics Manager,120000,USD,120000,US,0,US,L,Senior-level,Full-time,On-site,11.695255355062795,False,North America,North America
+2021,MI,FT,Machine Learning Engineer,21000,EUR,24823,SI,50,SI,L,Mid-level,Full-time,Hybrid,10.119566206128216,False,Europe,Europe
+2021,MI,FT,Research Scientist,48000,EUR,56738,FR,50,FR,S,Mid-level,Full-time,Hybrid,10.946217083956563,False,Europe,Europe
+2021,MI,FT,Data Engineer,48000,GBP,66022,HK,50,GB,S,Mid-level,Full-time,Hybrid,11.097758445150307,False,Asia,Europe
+2021,EN,FT,Big Data Engineer,435000,INR,5882,IN,0,CH,L,Entry-level,Full-time,On-site,8.679822114864455,False,Asia,Other
+2021,EN,FT,Machine Learning Engineer,21000,EUR,24823,DE,50,DE,M,Entry-level,Full-time,Hybrid,10.119566206128216,False,Europe,Europe
+2021,SE,FT,Principal Data Engineer,185000,USD,185000,US,100,US,L,Senior-level,Full-time,Fully remote,12.128116509451258,False,North America,North America
+2021,EN,PT,Computer Vision Engineer,180000,DKK,28609,DK,50,DK,S,Entry-level,Part-time,Hybrid,10.261511586044156,False,Europe,Europe
+2021,MI,FT,Machine Learning Engineer,75000,EUR,88654,BE,100,BE,M,Mid-level,Full-time,Fully remote,11.392507711491088,False,Europe,Europe
+2021,SE,FT,Data Analytics Manager,140000,USD,140000,US,100,US,L,Senior-level,Full-time,Fully remote,11.849404844423074,False,North America,North America
+2021,MI,FT,Machine Learning Engineer,180000,PLN,46597,PL,100,PL,L,Mid-level,Full-time,Fully remote,10.74931290073778,False,Europe,Europe
+2021,MI,FT,Data Scientist,85000,GBP,116914,GB,50,GB,L,Mid-level,Full-time,Hybrid,11.669202454027493,False,Europe,Europe
+2021,MI,FT,Data Scientist,2500000,INR,33808,IN,0,IN,M,Mid-level,Full-time,On-site,10.42848231821631,False,Asia,Asia
+2021,MI,FT,Data Scientist,40900,GBP,56256,GB,50,GB,L,Mid-level,Full-time,Hybrid,10.937685756768543,False,Europe,Europe
+2021,SE,FT,Machine Learning Scientist,225000,USD,225000,US,100,CA,L,Senior-level,Full-time,Fully remote,12.323860125621126,False,North America,North America
+2021,EX,CT,Principal Data Scientist,416000,USD,416000,US,100,US,S,Executive,Contract,Fully remote,12.938442943086665,False,North America,North America
+2021,SE,FT,Data Scientist,110000,CAD,87738,CA,100,CA,S,Senior-level,Full-time,Fully remote,11.38212177734502,False,North America,North America
+2021,MI,FT,Data Scientist,75000,EUR,88654,DE,50,DE,L,Mid-level,Full-time,Hybrid,11.392507711491088,False,Europe,Europe
+2021,SE,FT,Data Scientist,135000,USD,135000,US,0,US,L,Senior-level,Full-time,On-site,11.813037464800539,False,North America,North America
+2021,SE,FT,Data Analyst,90000,CAD,71786,CA,100,CA,M,Senior-level,Full-time,Fully remote,11.181458680147426,False,North America,North America
+2021,EN,FT,Big Data Engineer,1200000,INR,16228,IN,100,IN,L,Entry-level,Full-time,Fully remote,9.694555044315882,False,Asia,Asia
+2021,SE,FT,ML Engineer,256000,USD,256000,US,100,US,S,Senior-level,Full-time,Fully remote,12.45293662970407,False,North America,North America
+2021,SE,FT,Director of Data Engineering,200000,USD,200000,US,100,US,L,Senior-level,Full-time,Fully remote,12.206077645517674,False,North America,North America
+2021,SE,FT,Data Analyst,200000,USD,200000,US,100,US,L,Senior-level,Full-time,Fully remote,12.206077645517674,False,North America,North America
+2021,MI,FT,Data Architect,180000,USD,180000,US,100,US,L,Mid-level,Full-time,Fully remote,12.100717685412471,False,North America,North America
+2021,MI,FT,Head of Data Science,110000,USD,110000,US,0,US,S,Mid-level,Full-time,On-site,11.608244735642321,False,North America,North America
+2021,MI,FT,Research Scientist,80000,CAD,63810,CA,100,CA,M,Mid-level,Full-time,Fully remote,11.063680868264434,False,North America,North America
+2021,MI,FT,Data Scientist,39600,EUR,46809,ES,100,ES,M,Mid-level,Full-time,Fully remote,10.753852134294116,False,Europe,Europe
+2021,EN,FT,Data Scientist,4000,USD,4000,VN,0,VN,M,Entry-level,Full-time,On-site,8.294299608857235,False,Asia,Asia
+2021,EN,FT,Data Engineer,1600000,INR,21637,IN,50,IN,M,Entry-level,Full-time,Hybrid,9.98220630724752,False,Asia,Asia
+2021,SE,FT,Data Scientist,130000,CAD,103691,CA,100,CA,L,Senior-level,Full-time,Fully remote,11.5491802456294,False,North America,North America
+2021,MI,FT,Data Analyst,80000,USD,80000,US,100,US,L,Mid-level,Full-time,Fully remote,11.289794413577894,False,North America,North America
+2021,MI,FT,Data Engineer,110000,USD,110000,US,100,US,L,Mid-level,Full-time,Fully remote,11.608244735642321,False,North America,North America
+2021,SE,FT,Data Scientist,165000,USD,165000,US,100,US,L,Senior-level,Full-time,Fully remote,12.013706813470414,False,North America,North America
+2021,EN,FT,AI Scientist,1335000,INR,18053,IN,100,AS,S,Entry-level,Full-time,Fully remote,9.8011225458581,False,Asia,Other
+2021,MI,FT,Data Engineer,52500,GBP,72212,GB,50,GB,L,Mid-level,Full-time,Hybrid,11.187375364074551,False,Europe,Europe
+2021,EN,FT,Data Scientist,31000,EUR,36643,FR,50,FR,L,Entry-level,Full-time,Hybrid,10.5090049831351,False,Europe,Europe
+2021,MI,FT,Data Engineer,108000,TRY,12103,TR,0,TR,M,Mid-level,Full-time,On-site,9.401291255468191,False,Other,Other
+2021,SE,FT,Data Engineer,70000,GBP,96282,GB,50,GB,L,Senior-level,Full-time,Hybrid,11.475047050530808,False,Europe,Europe
+2021,SE,FT,Principal Data Analyst,170000,USD,170000,US,100,US,M,Senior-level,Full-time,Fully remote,12.04355959836804,False,North America,North America
+2021,MI,FT,Data Scientist,115000,USD,115000,US,50,US,L,Mid-level,Full-time,Hybrid,11.652696102959753,False,North America,North America
+2021,EN,FT,Data Scientist,90000,USD,90000,US,100,US,S,Entry-level,Full-time,Fully remote,11.407576060361786,False,North America,North America
+2021,EX,FT,Principal Data Engineer,600000,USD,600000,US,100,US,L,Executive,Full-time,Fully remote,13.304686600863562,False,North America,North America
+2021,EN,FT,Data Scientist,2100000,INR,28399,IN,100,IN,M,Entry-level,Full-time,Fully remote,10.254144424149297,False,Asia,Asia
+2021,MI,FT,Data Analyst,93000,USD,93000,US,100,US,L,Mid-level,Full-time,Fully remote,11.440365524765756,False,North America,North America
+2021,SE,FT,Big Data Architect,125000,CAD,99703,CA,50,CA,M,Senior-level,Full-time,Hybrid,11.509961075506213,False,North America,North America
+2021,SE,FT,Principal Data Scientist,147000,EUR,173762,DE,100,DE,M,Senior-level,Full-time,Fully remote,12.065447580772036,False,Europe,Europe
+2021,SE,FT,Machine Learning Engineer,185000,USD,185000,US,50,US,L,Senior-level,Full-time,Hybrid,12.128116509451258,False,North America,North America
+2021,EX,FT,Director of Data Science,120000,EUR,141846,DE,0,DE,L,Executive,Full-time,On-site,11.862504290912188,False,Europe,Europe
+2021,MI,FT,Data Scientist,130000,USD,130000,US,50,US,L,Mid-level,Full-time,Hybrid,11.775297421715827,False,North America,North America
+2021,SE,FT,Data Analyst,54000,EUR,63831,DE,50,DE,L,Senior-level,Full-time,Hybrid,11.064009910988117,False,Europe,Europe
+2021,MI,FT,Data Scientist,1250000,INR,16904,IN,100,IN,S,Mid-level,Full-time,Fully remote,9.735364715141987,False,Asia,Asia
+2021,SE,FT,Machine Learning Engineer,4900000,INR,66265,IN,0,IN,L,Senior-level,Full-time,On-site,11.101432224123721,False,Asia,Asia
+2021,MI,FT,Data Scientist,21600,EUR,25532,RS,100,DE,S,Mid-level,Full-time,Fully remote,10.14772701214507,False,Europe,Europe
+2021,SE,FT,Lead Data Engineer,160000,USD,160000,PR,50,US,S,Senior-level,Full-time,Hybrid,11.982935344196433,False,Other,North America
+2021,MI,FT,Data Engineer,93150,USD,93150,US,0,US,M,Mid-level,Full-time,On-site,11.441977111345166,False,North America,North America
+2021,MI,FT,Data Engineer,111775,USD,111775,US,0,US,M,Mid-level,Full-time,On-site,11.624252147606558,False,North America,North America
+2021,MI,FT,Data Engineer,250000,TRY,28016,TR,100,TR,M,Mid-level,Full-time,Fully remote,10.240566747777828,False,Other,Other
+2021,EN,FT,Data Engineer,55000,EUR,65013,DE,50,DE,M,Entry-level,Full-time,Hybrid,11.082357910301223,False,Europe,Europe
+2021,EN,FT,Data Engineer,72500,USD,72500,US,100,US,L,Entry-level,Full-time,Fully remote,11.19135563385109,False,North America,North America
+2021,SE,FT,Computer Vision Engineer,102000,BRL,18907,BR,0,BR,M,Senior-level,Full-time,On-site,9.847340391913127,False,South America,South America
+2021,EN,FT,Data Science Consultant,65000,EUR,76833,DE,0,DE,L,Entry-level,Full-time,On-site,11.249402529502674,False,Europe,Europe
+2021,EN,FT,Machine Learning Engineer,85000,USD,85000,NL,100,DE,S,Entry-level,Full-time,Fully remote,11.350418300109132,False,Europe,Europe
+2021,SE,FT,Data Scientist,65720,EUR,77684,FR,50,FR,M,Senior-level,Full-time,Hybrid,11.260417467526102,False,Europe,Europe
+2021,EN,FT,Data Scientist,100000,USD,100000,US,100,US,M,Entry-level,Full-time,Fully remote,11.51293546492023,False,North America,North America
+2021,EN,FT,Data Scientist,58000,USD,58000,US,50,US,L,Entry-level,Full-time,Hybrid,10.968215530759236,False,North America,North America
+2021,SE,FT,AI Scientist,55000,USD,55000,ES,100,ES,L,Senior-level,Full-time,Fully remote,10.915106645867503,False,Europe,Europe
+2021,SE,FT,Data Scientist,180000,TRY,20171,TR,50,TR,L,Senior-level,Full-time,Hybrid,9.912050783196616,False,Other,Other
+2021,EN,FT,Business Data Analyst,50000,EUR,59102,LU,100,LU,L,Entry-level,Full-time,Fully remote,10.987036963527192,False,Europe,Europe
+2021,MI,FT,Data Engineer,112000,USD,112000,US,100,US,L,Mid-level,Full-time,Fully remote,11.626263078808801,False,North America,North America
+2021,EN,FT,Research Scientist,100000,USD,100000,JE,0,CN,L,Entry-level,Full-time,On-site,11.51293546492023,False,Other,Asia
+2021,MI,PT,Data Engineer,59000,EUR,69741,NL,100,NL,L,Mid-level,Part-time,Fully remote,11.152557997765097,False,Europe,Europe
+2021,SE,CT,Staff Data Scientist,105000,USD,105000,US,100,US,M,Senior-level,Contract,Fully remote,11.561725152903833,False,North America,North America
+2021,MI,FT,Research Scientist,69999,USD,69999,CZ,50,CZ,L,Mid-level,Full-time,Hybrid,11.156250521031495,False,Europe,Europe
+2021,SE,FT,Data Science Manager,7000000,INR,94665,IN,50,IN,L,Senior-level,Full-time,Hybrid,11.458110186196915,False,Asia,Asia
+2021,SE,FT,Head of Data,87000,EUR,102839,SI,100,SI,L,Senior-level,Full-time,Fully remote,11.540929661379826,False,Europe,Europe
+2021,MI,FT,Data Scientist,109000,USD,109000,US,50,US,L,Mid-level,Full-time,Hybrid,11.599112335481124,False,North America,North America
+2021,MI,FT,Machine Learning Engineer,43200,EUR,51064,IT,50,IT,L,Mid-level,Full-time,Hybrid,10.8408546100122,False,Europe,Europe
+2022,SE,FT,Data Engineer,135000,USD,135000,US,100,US,M,Senior-level,Full-time,Fully remote,11.813037464800539,False,North America,North America
+2022,SE,FT,Data Analyst,155000,USD,155000,US,100,US,M,Senior-level,Full-time,Fully remote,11.951186847493476,False,North America,North America
+2022,SE,FT,Data Analyst,120600,USD,120600,US,100,US,M,Senior-level,Full-time,Fully remote,11.700242855114809,False,North America,North America
+2022,MI,FT,Data Scientist,130000,USD,130000,US,0,US,M,Mid-level,Full-time,On-site,11.775297421715827,False,North America,North America
+2022,MI,FT,Data Scientist,90000,USD,90000,US,0,US,M,Mid-level,Full-time,On-site,11.407576060361786,False,North America,North America
+2022,MI,FT,Data Engineer,170000,USD,170000,US,100,US,M,Mid-level,Full-time,Fully remote,12.04355959836804,False,North America,North America
+2022,MI,FT,Data Engineer,150000,USD,150000,US,100,US,M,Mid-level,Full-time,Fully remote,11.918397239722838,False,North America,North America
+2022,SE,FT,Data Analyst,102100,USD,102100,US,100,US,M,Senior-level,Full-time,Fully remote,11.533717798424087,False,North America,North America
+2022,SE,FT,Data Analyst,84900,USD,84900,US,100,US,M,Senior-level,Full-time,Fully remote,11.349241150793087,False,North America,North America
+2022,SE,FT,Data Scientist,136620,USD,136620,US,100,US,M,Senior-level,Full-time,Fully remote,11.82496594783159,False,North America,North America
+2022,SE,FT,Data Scientist,99360,USD,99360,US,100,US,M,Senior-level,Full-time,Fully remote,11.506514961528898,False,North America,North America
+2022,SE,FT,Data Scientist,90000,GBP,117789,GB,0,GB,M,Senior-level,Full-time,On-site,11.67665865695283,False,Europe,Europe
+2022,SE,FT,Data Scientist,80000,GBP,104702,GB,0,GB,M,Senior-level,Full-time,On-site,11.55888304974326,False,Europe,Europe
+2022,SE,FT,Data Scientist,146000,USD,146000,US,100,US,M,Senior-level,Full-time,Fully remote,11.891368749982085,False,North America,North America
+2022,SE,FT,Data Scientist,123000,USD,123000,US,100,US,M,Senior-level,Full-time,Fully remote,11.719947764402807,False,North America,North America
+2022,EN,FT,Data Engineer,40000,GBP,52351,GB,100,GB,M,Entry-level,Full-time,Fully remote,10.865745419962419,False,Europe,Europe
+2022,SE,FT,Data Analyst,99000,USD,99000,US,0,US,M,Senior-level,Full-time,On-site,11.502885230075814,False,North America,North America
+2022,SE,FT,Data Analyst,116000,USD,116000,US,0,US,M,Senior-level,Full-time,On-site,11.661354090741,False,North America,North America
+2022,MI,FT,Data Analyst,106260,USD,106260,US,0,US,M,Mid-level,Full-time,On-site,11.573653610839628,False,North America,North America
+2022,MI,FT,Data Analyst,126500,USD,126500,US,0,US,M,Mid-level,Full-time,On-site,11.748005492256807,False,North America,North America
+2022,EX,FT,Data Engineer,242000,USD,242000,US,100,US,M,Executive,Full-time,Fully remote,12.396697137361691,False,North America,North America
+2022,EX,FT,Data Engineer,200000,USD,200000,US,100,US,M,Executive,Full-time,Fully remote,12.206077645517674,False,North America,North America
+2022,MI,FT,Data Scientist,50000,GBP,65438,GB,0,GB,M,Mid-level,Full-time,On-site,11.088873689986276,False,Europe,Europe
+2022,MI,FT,Data Scientist,30000,GBP,39263,GB,0,GB,M,Mid-level,Full-time,On-site,10.578063347510637,False,Europe,Europe
+2022,MI,FT,Data Engineer,60000,GBP,78526,GB,0,GB,M,Mid-level,Full-time,On-site,11.271197793678173,False,Europe,Europe
+2022,MI,FT,Data Engineer,40000,GBP,52351,GB,0,GB,M,Mid-level,Full-time,On-site,10.865745419962419,False,Europe,Europe
+2022,SE,FT,Data Scientist,165220,USD,165220,US,100,US,M,Senior-level,Full-time,Fully remote,12.015039250634192,False,North America,North America
+2022,EN,FT,Data Engineer,35000,GBP,45807,GB,100,GB,M,Entry-level,Full-time,Fully remote,10.732214027337896,False,Europe,Europe
+2022,SE,FT,Data Scientist,120160,USD,120160,US,100,US,M,Senior-level,Full-time,Fully remote,11.696587789200349,False,North America,North America
+2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Senior-level,Full-time,Fully remote,11.41112527050716,False,North America,North America
+2022,SE,FT,Data Engineer,181940,USD,181940,US,0,US,M,Senior-level,Full-time,On-site,12.111437737678415,False,North America,North America
+2022,SE,FT,Data Engineer,132320,USD,132320,US,0,US,M,Senior-level,Full-time,On-site,11.792986067665478,False,North America,North America
+2022,SE,FT,Data Engineer,220110,USD,220110,US,0,US,M,Senior-level,Full-time,On-site,12.301887243548784,False,North America,North America
+2022,SE,FT,Data Engineer,160080,USD,160080,US,0,US,M,Senior-level,Full-time,On-site,11.983435216114666,False,North America,North America
+2022,SE,FT,Data Scientist,180000,USD,180000,US,0,US,L,Senior-level,Full-time,On-site,12.100717685412471,False,North America,North America
+2022,SE,FT,Data Scientist,120000,USD,120000,US,0,US,L,Senior-level,Full-time,On-site,11.695255355062795,False,North America,North America
+2022,SE,FT,Data Analyst,124190,USD,124190,US,100,US,M,Senior-level,Full-time,Fully remote,11.729575982087773,False,North America,North America
+2022,EX,FT,Data Analyst,130000,USD,130000,US,100,US,M,Executive,Full-time,Fully remote,11.775297421715827,False,North America,North America
+2022,EX,FT,Data Analyst,110000,USD,110000,US,100,US,M,Executive,Full-time,Fully remote,11.608244735642321,False,North America,North America
+2022,SE,FT,Data Analyst,170000,USD,170000,US,100,US,M,Senior-level,Full-time,Fully remote,12.04355959836804,False,North America,North America
+2022,MI,FT,Data Analyst,115500,USD,115500,US,100,US,M,Mid-level,Full-time,Fully remote,11.657034466915164,False,North America,North America
+2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Senior-level,Full-time,Fully remote,11.634266607494453,False,North America,North America
+2022,SE,FT,Data Engineer,165400,USD,165400,US,100,US,M,Senior-level,Full-time,Fully remote,12.016128107502665,False,North America,North America
+2022,SE,FT,Data Engineer,132320,USD,132320,US,100,US,M,Senior-level,Full-time,Fully remote,11.792986067665478,False,North America,North America
+2022,MI,FT,Data Analyst,167000,USD,167000,US,100,US,M,Mid-level,Full-time,Fully remote,12.025755079404917,False,North America,North America
+2022,SE,FT,Data Engineer,243900,USD,243900,US,100,US,M,Senior-level,Full-time,Fully remote,12.404517684236607,False,North America,North America
+2022,SE,FT,Data Analyst,136600,USD,136600,US,100,US,M,Senior-level,Full-time,Fully remote,11.824819546736247,False,North America,North America
+2022,SE,FT,Data Analyst,109280,USD,109280,US,100,US,M,Senior-level,Full-time,Fully remote,11.60167782556802,False,North America,North America
+2022,SE,FT,Data Engineer,128875,USD,128875,US,100,US,M,Senior-level,Full-time,Fully remote,11.766605980745995,False,North America,North America
+2022,SE,FT,Data Engineer,93700,USD,93700,US,100,US,M,Senior-level,Full-time,Fully remote,11.447864140528155,False,North America,North America
+2022,EX,FT,Head of Data Science,224000,USD,224000,US,100,US,M,Executive,Full-time,Fully remote,12.319405795112926,False,North America,North America
+2022,EX,FT,Head of Data Science,167875,USD,167875,US,100,US,M,Executive,Full-time,Fully remote,12.030980890620903,False,North America,North America
+2022,EX,FT,Analytics Engineer,175000,USD,175000,US,100,US,M,Executive,Full-time,Fully remote,12.07254696717504,False,North America,North America
+2022,SE,FT,Data Engineer,156600,USD,156600,US,100,US,M,Senior-level,Full-time,Fully remote,11.961456448214491,False,North America,North America
+2022,SE,FT,Data Engineer,108800,USD,108800,US,0,US,M,Senior-level,Full-time,On-site,11.597275804538212,False,North America,North America
+2022,SE,FT,Data Scientist,95550,USD,95550,US,0,US,M,Senior-level,Full-time,On-site,11.467415415338404,False,North America,North America
+2022,SE,FT,Data Engineer,113000,USD,113000,US,0,US,L,Senior-level,Full-time,On-site,11.635151947212842,False,North America,North America
+2022,SE,FT,Data Analyst,135000,USD,135000,US,100,US,M,Senior-level,Full-time,Fully remote,11.813037464800539,False,North America,North America
+2022,SE,FT,Data Science Manager,161342,USD,161342,US,100,US,M,Senior-level,Full-time,Fully remote,11.991287812591057,False,North America,North America
+2022,SE,FT,Data Science Manager,137141,USD,137141,US,100,US,M,Senior-level,Full-time,Fully remote,11.828772164369175,False,North America,North America
+2022,SE,FT,Data Scientist,167000,USD,167000,US,100,US,M,Senior-level,Full-time,Fully remote,12.025755079404917,False,North America,North America
+2022,SE,FT,Data Engineer,60000,GBP,78526,GB,0,GB,M,Senior-level,Full-time,On-site,11.271197793678173,False,Europe,Europe
+2022,SE,FT,Data Engineer,50000,GBP,65438,GB,0,GB,M,Senior-level,Full-time,On-site,11.088873689986276,False,Europe,Europe
+2022,SE,FT,Data Scientist,150000,USD,150000,US,0,US,M,Senior-level,Full-time,On-site,11.918397239722838,False,North America,North America
+2022,SE,FT,Data Scientist,211500,USD,211500,US,100,US,M,Senior-level,Full-time,Fully remote,12.261985005589679,False,North America,North America
+2022,SE,FT,Data Architect,192400,USD,192400,CA,100,CA,M,Senior-level,Full-time,Fully remote,12.167337014705433,False,North America,North America
+2022,SE,FT,Data Architect,90700,USD,90700,CA,100,CA,M,Senior-level,Full-time,Fully remote,11.415323661400773,False,North America,North America
+2022,SE,FT,Data Analyst,130000,USD,130000,CA,100,CA,M,Senior-level,Full-time,Fully remote,11.775297421715827,False,North America,North America
+2022,SE,FT,Data Analyst,61300,USD,61300,CA,100,CA,M,Senior-level,Full-time,Fully remote,11.023551435004947,False,North America,North America
+2022,SE,FT,Data Engineer,160000,USD,160000,US,0,US,L,Senior-level,Full-time,On-site,11.982935344196433,False,North America,North America
+2022,SE,FT,Data Scientist,138600,USD,138600,US,100,US,M,Senior-level,Full-time,Fully remote,11.839354580719126,False,North America,North America
+2022,SE,FT,Data Engineer,136000,USD,136000,US,0,US,M,Senior-level,Full-time,On-site,11.820417517632333,False,North America,North America
+2022,MI,FT,Data Analyst,58000,USD,58000,US,0,US,S,Mid-level,Full-time,On-site,10.968215530759236,False,North America,North America
+2022,EX,FT,Analytics Engineer,135000,USD,135000,US,100,US,M,Executive,Full-time,Fully remote,11.813037464800539,False,North America,North America
+2022,SE,FT,Data Scientist,170000,USD,170000,US,100,US,M,Senior-level,Full-time,Fully remote,12.04355959836804,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,189650,USD,189650,US,0,US,M,Senior-level,Full-time,On-site,12.152940819974221,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,164996,USD,164996,US,0,US,M,Senior-level,Full-time,On-site,12.013682570899245,False,North America,North America
+2022,MI,FT,ETL Developer,50000,EUR,54957,GR,0,GR,M,Mid-level,Full-time,On-site,10.914324536132202,False,Europe,Europe
+2022,EX,FT,Lead Data Engineer,150000,CAD,118187,CA,100,CA,S,Executive,Full-time,Fully remote,11.680031855957703,False,North America,North America
+2022,SE,FT,Data Analyst,132000,USD,132000,US,0,US,M,Senior-level,Full-time,On-site,11.790564777297387,False,North America,North America
+2022,SE,FT,Data Architect,208775,USD,208775,US,100,US,M,Senior-level,Full-time,Fully remote,12.249017185855486,False,North America,North America
+2022,SE,FT,Data Architect,147800,USD,147800,US,100,US,M,Senior-level,Full-time,Fully remote,11.903622053373214,False,North America,North America
+2022,SE,FT,Data Engineer,136994,USD,136994,US,100,US,M,Senior-level,Full-time,Fully remote,11.827699707793888,False,North America,North America
+2022,SE,FT,Data Engineer,101570,USD,101570,US,100,US,M,Senior-level,Full-time,Fully remote,11.52851334031188,False,North America,North America
+2022,SE,FT,Data Analyst,128875,USD,128875,US,100,US,M,Senior-level,Full-time,Fully remote,11.766605980745995,False,North America,North America
+2022,SE,FT,Data Analyst,93700,USD,93700,US,100,US,M,Senior-level,Full-time,Fully remote,11.447864140528155,False,North America,North America
+2022,EX,FT,Head of Machine Learning,6000000,INR,79039,IN,50,IN,L,Executive,Full-time,Hybrid,11.277709332421749,False,Asia,Asia
+2022,EN,FT,Machine Learning Engineer,28500,GBP,37300,GB,100,GB,L,Entry-level,Full-time,Fully remote,10.526775414924009,False,Europe,Europe
+2022,SE,FT,Data Analyst,164000,USD,164000,US,0,US,M,Senior-level,Full-time,On-site,12.00762780434872,False,North America,North America
+2022,SE,FT,Data Engineer,155000,USD,155000,US,100,US,M,Senior-level,Full-time,Fully remote,11.951186847493476,False,North America,North America
+2022,MI,FT,Machine Learning Engineer,95000,GBP,124333,GB,0,GB,M,Mid-level,Full-time,On-site,11.730726771873762,False,Europe,Europe
+2022,MI,FT,Machine Learning Engineer,75000,GBP,98158,GB,0,GB,M,Mid-level,Full-time,On-site,11.494343891883839,False,Europe,Europe
+2022,MI,FT,AI Scientist,120000,USD,120000,US,0,US,M,Mid-level,Full-time,On-site,11.695255355062795,False,North America,North America
+2022,SE,FT,Data Analytics Manager,145000,USD,145000,US,100,US,M,Senior-level,Full-time,Fully remote,11.884495917930655,False,North America,North America
+2022,SE,FT,Data Analytics Manager,105400,USD,105400,US,100,US,M,Senior-level,Full-time,Fully remote,11.565527402710426,False,North America,North America
+2022,MI,FT,Machine Learning Engineer,80000,EUR,87932,FR,100,DE,M,Mid-level,Full-time,Fully remote,11.384330439839488,False,Europe,Europe
+2022,MI,FT,Data Engineer,90000,GBP,117789,GB,0,GB,M,Mid-level,Full-time,On-site,11.67665865695283,False,Europe,Europe
+2022,SE,FT,Data Scientist,215300,USD,215300,US,100,US,L,Senior-level,Full-time,Fully remote,12.279792328023508,False,North America,North America
+2022,SE,FT,Data Scientist,158200,USD,158200,US,100,US,L,Senior-level,Full-time,Fully remote,11.971621655408228,False,North America,North America
+2022,SE,FT,Data Engineer,209100,USD,209100,US,100,US,L,Senior-level,Full-time,Fully remote,12.250572667806054,False,North America,North America
+2022,SE,FT,Data Engineer,154600,USD,154600,US,100,US,L,Senior-level,Full-time,Fully remote,11.948602883419843,False,North America,North America
+2022,SE,FT,Data Analyst,115934,USD,115934,US,0,US,M,Senior-level,Full-time,On-site,11.66078496820908,False,North America,North America
+2022,SE,FT,Data Analyst,81666,USD,81666,US,0,US,M,Senior-level,Full-time,On-site,11.310405282483078,False,North America,North America
+2022,SE,FT,Data Engineer,175000,USD,175000,US,100,US,M,Senior-level,Full-time,Fully remote,12.07254696717504,False,North America,North America
+2022,MI,FT,Data Engineer,75000,GBP,98158,GB,0,GB,M,Mid-level,Full-time,On-site,11.494343891883839,False,Europe,Europe
+2022,SE,FT,Data Engineer,183600,USD,183600,US,100,US,L,Senior-level,Full-time,Fully remote,12.120520203776788,False,North America,North America
+2022,MI,FT,Data Analyst,40000,GBP,52351,GB,100,GB,M,Mid-level,Full-time,Fully remote,10.865745419962419,False,Europe,Europe
+2022,SE,FT,Data Scientist,180000,USD,180000,US,100,US,M,Senior-level,Full-time,Fully remote,12.100717685412471,False,North America,North America
+2022,MI,FT,Data Scientist,55000,GBP,71982,GB,0,GB,M,Mid-level,Full-time,On-site,11.184185259008464,False,Europe,Europe
+2022,MI,FT,Data Scientist,35000,GBP,45807,GB,0,GB,M,Mid-level,Full-time,On-site,10.732214027337896,False,Europe,Europe
+2022,MI,FT,Data Engineer,60000,EUR,65949,GR,100,GR,M,Mid-level,Full-time,Fully remote,11.09665215814546,False,Europe,Europe
+2022,MI,FT,Data Engineer,45000,EUR,49461,GR,100,GR,M,Mid-level,Full-time,Fully remote,10.808959976974403,False,Europe,Europe
+2022,MI,FT,Data Engineer,60000,GBP,78526,GB,100,GB,M,Mid-level,Full-time,Fully remote,11.271197793678173,False,Europe,Europe
+2022,MI,FT,Data Engineer,45000,GBP,58894,GB,100,GB,M,Mid-level,Full-time,Fully remote,10.983511476392884,False,Europe,Europe
+2022,SE,FT,Data Scientist,260000,USD,260000,US,100,US,M,Senior-level,Full-time,Fully remote,12.468440756144114,False,North America,North America
+2022,SE,FT,Data Science Engineer,60000,USD,60000,AR,100,MX,L,Senior-level,Full-time,Fully remote,11.002116507732017,False,South America,North America
+2022,MI,FT,Data Engineer,63900,USD,63900,US,0,US,M,Mid-level,Full-time,On-site,11.065090289695444,False,North America,North America
+2022,MI,FT,Machine Learning Scientist,160000,USD,160000,US,100,US,L,Mid-level,Full-time,Fully remote,11.982935344196433,False,North America,North America
+2022,MI,FT,Machine Learning Scientist,112300,USD,112300,US,100,US,L,Mid-level,Full-time,Fully remote,11.62893804540639,False,North America,North America
+2022,MI,FT,Data Science Manager,241000,USD,241000,US,100,US,M,Mid-level,Full-time,Fully remote,12.392556361841777,False,North America,North America
+2022,MI,FT,Data Science Manager,159000,USD,159000,US,100,US,M,Mid-level,Full-time,Fully remote,11.976665770490767,False,North America,North America
+2022,SE,FT,Data Scientist,180000,USD,180000,US,0,US,M,Senior-level,Full-time,On-site,12.100717685412471,False,North America,North America
+2022,SE,FT,Data Scientist,80000,USD,80000,US,0,US,M,Senior-level,Full-time,On-site,11.289794413577894,False,North America,North America
+2022,MI,FT,Data Engineer,82900,USD,82900,US,0,US,M,Mid-level,Full-time,On-site,11.325402403776808,False,North America,North America
+2022,SE,FT,Data Engineer,100800,USD,100800,US,100,US,L,Senior-level,Full-time,Fully remote,11.520903555205116,False,North America,North America
+2022,MI,FT,Data Engineer,45000,EUR,49461,ES,100,ES,M,Mid-level,Full-time,Fully remote,10.808959976974403,False,Europe,Europe
+2022,SE,FT,Data Scientist,140400,USD,140400,US,0,US,L,Senior-level,Full-time,On-site,11.852257893055606,False,North America,North America
+2022,MI,FT,Data Analyst,30000,GBP,39263,GB,100,GB,M,Mid-level,Full-time,Fully remote,10.578063347510637,False,Europe,Europe
+2022,MI,FT,Data Analyst,40000,EUR,43966,ES,100,ES,M,Mid-level,Full-time,Fully remote,10.691194631509694,False,Europe,Europe
+2022,MI,FT,Data Analyst,30000,EUR,32974,ES,100,ES,M,Mid-level,Full-time,Fully remote,10.403504977585515,False,Europe,Europe
+2022,MI,FT,Data Engineer,80000,EUR,87932,ES,100,ES,M,Mid-level,Full-time,Fully remote,11.384330439839488,False,Europe,Europe
+2022,MI,FT,Data Engineer,70000,EUR,76940,ES,100,ES,M,Mid-level,Full-time,Fully remote,11.250794173362452,False,Europe,Europe
+2022,MI,FT,Data Engineer,80000,GBP,104702,GB,100,GB,M,Mid-level,Full-time,Fully remote,11.55888304974326,False,Europe,Europe
+2022,MI,FT,Data Engineer,70000,GBP,91614,GB,100,GB,M,Mid-level,Full-time,Fully remote,11.425350292714276,False,Europe,Europe
+2022,MI,FT,Data Engineer,60000,EUR,65949,ES,100,ES,M,Mid-level,Full-time,Fully remote,11.09665215814546,False,Europe,Europe
+2022,MI,FT,Data Engineer,80000,EUR,87932,GR,100,GR,M,Mid-level,Full-time,Fully remote,11.384330439839488,False,Europe,Europe
+2022,MI,FT,Data Analyst,40000,EUR,43966,GR,100,GR,M,Mid-level,Full-time,Fully remote,10.691194631509694,False,Europe,Europe
+2022,MI,FT,Data Analyst,30000,EUR,32974,GR,100,GR,M,Mid-level,Full-time,Fully remote,10.403504977585515,False,Europe,Europe
+2022,MI,FT,Data Engineer,75000,GBP,98158,GB,100,GB,M,Mid-level,Full-time,Fully remote,11.494343891883839,False,Europe,Europe
+2022,SE,FT,Data Scientist,215300,USD,215300,US,0,US,L,Senior-level,Full-time,On-site,12.279792328023508,False,North America,North America
+2022,MI,FT,Data Engineer,70000,EUR,76940,GR,100,GR,M,Mid-level,Full-time,Fully remote,11.250794173362452,False,Europe,Europe
+2022,SE,FT,Data Engineer,180000,USD,180000,US,100,US,M,Senior-level,Full-time,Fully remote,12.100717685412471,False,North America,North America
+2022,EN,FT,ML Engineer,20000,EUR,21983,PT,100,PT,L,Entry-level,Full-time,Fully remote,9.998070195022075,False,Europe,Europe
+2022,SE,FT,Data Engineer,80000,USD,80000,US,100,US,M,Senior-level,Full-time,Fully remote,11.289794413577894,False,North America,North America
+2022,MI,FT,Machine Learning Developer,100000,CAD,78791,CA,100,CA,M,Mid-level,Full-time,Fully remote,11.274566747849539,False,North America,North America
+2022,EX,FT,Director of Data Science,250000,CAD,196979,CA,50,CA,L,Executive,Full-time,Hybrid,12.190857479723693,False,North America,North America
+2022,MI,FT,Machine Learning Engineer,120000,USD,120000,US,100,US,S,Mid-level,Full-time,Fully remote,11.695255355062795,False,North America,North America
+2022,EN,FT,Computer Vision Engineer,125000,USD,125000,US,0,US,M,Entry-level,Full-time,On-site,11.736077016252437,False,North America,North America
+2022,MI,FT,NLP Engineer,240000,CNY,37236,US,50,US,L,Mid-level,Full-time,Hybrid,10.525058169606785,False,North America,North America
+2022,SE,FT,Data Engineer,105000,USD,105000,US,100,US,M,Senior-level,Full-time,Fully remote,11.561725152903833,False,North America,North America
+2022,SE,FT,Lead Machine Learning Engineer,80000,EUR,87932,DE,0,DE,M,Senior-level,Full-time,On-site,11.384330439839488,False,Europe,Europe
+2022,MI,FT,Business Data Analyst,1400000,INR,18442,IN,100,IN,M,Mid-level,Full-time,Fully remote,9.822440173682805,False,Asia,Asia
+2022,MI,FT,Data Scientist,2400000,INR,31615,IN,100,IN,L,Mid-level,Full-time,Fully remote,10.361418600547594,False,Asia,Asia
+2022,MI,FT,Machine Learning Infrastructure Engineer,53000,EUR,58255,PT,50,PT,L,Mid-level,Full-time,Hybrid,10.972602370415215,False,Europe,Europe
+2022,EN,FT,Financial Data Analyst,100000,USD,100000,US,50,US,L,Entry-level,Full-time,Hybrid,11.51293546492023,False,North America,North America
+2022,MI,PT,Data Engineer,50000,EUR,54957,DE,50,DE,L,Mid-level,Part-time,Hybrid,10.914324536132202,False,Europe,Europe
+2022,EN,FT,Data Scientist,1400000,INR,18442,IN,100,IN,M,Entry-level,Full-time,Fully remote,9.822440173682805,False,Asia,Asia
+2022,SE,FT,Principal Data Scientist,148000,EUR,162674,DE,100,DE,M,Senior-level,Full-time,Fully remote,11.999509624363185,False,Europe,Europe
+2022,EN,FT,Data Engineer,120000,USD,120000,US,100,US,M,Entry-level,Full-time,Fully remote,11.695255355062795,False,North America,North America
+2022,SE,FT,Research Scientist,144000,USD,144000,US,50,US,L,Senior-level,Full-time,Hybrid,11.87757552297847,False,North America,North America
+2022,SE,FT,Data Scientist,104890,USD,104890,US,100,US,M,Senior-level,Full-time,Fully remote,11.560676994707515,False,North America,North America
+2022,SE,FT,Data Engineer,100000,USD,100000,US,100,US,M,Senior-level,Full-time,Fully remote,11.51293546492023,False,North America,North America
+2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Senior-level,Full-time,Fully remote,11.849404844423074,False,North America,North America
+2022,MI,FT,Data Analyst,135000,USD,135000,US,100,US,M,Mid-level,Full-time,Fully remote,11.813037464800539,False,North America,North America
+2022,MI,FT,Data Analyst,50000,USD,50000,US,100,US,M,Mid-level,Full-time,Fully remote,10.819798284210286,False,North America,North America
+2022,SE,FT,Data Scientist,220000,USD,220000,US,100,US,M,Senior-level,Full-time,Fully remote,12.301387370778713,False,North America,North America
+2022,MI,FT,Data Scientist,140000,GBP,183228,GB,0,GB,M,Mid-level,Full-time,On-site,12.11849201563776,False,Europe,Europe
+2022,MI,FT,Data Scientist,70000,GBP,91614,GB,0,GB,M,Mid-level,Full-time,On-site,11.425350292714276,False,Europe,Europe
+2022,SE,FT,Data Scientist,185100,USD,185100,US,100,US,M,Senior-level,Full-time,Fully remote,12.128656901032139,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,220000,USD,220000,US,100,US,M,Senior-level,Full-time,Fully remote,12.301387370778713,False,North America,North America
+2022,MI,FT,Data Scientist,200000,USD,200000,US,100,US,M,Mid-level,Full-time,Fully remote,12.206077645517674,False,North America,North America
+2022,MI,FT,Data Scientist,120000,USD,120000,US,100,US,M,Mid-level,Full-time,Fully remote,11.695255355062795,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,120000,USD,120000,AE,100,AE,S,Senior-level,Full-time,Fully remote,11.695255355062795,False,Asia,Asia
+2022,SE,FT,Machine Learning Engineer,65000,USD,65000,AE,100,AE,S,Senior-level,Full-time,Fully remote,11.082157933374816,False,Asia,Asia
+2022,EX,FT,Data Engineer,324000,USD,324000,US,100,US,M,Executive,Full-time,Fully remote,12.688501881189456,False,North America,North America
+2022,EX,FT,Data Engineer,216000,USD,216000,US,100,US,M,Executive,Full-time,Fully remote,12.283038316285214,False,North America,North America
+2022,SE,FT,Data Engineer,210000,USD,210000,US,100,US,M,Senior-level,Full-time,Fully remote,12.25486757159303,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,120000,USD,120000,US,100,US,M,Senior-level,Full-time,Fully remote,11.695255355062795,False,North America,North America
+2022,SE,FT,Data Scientist,230000,USD,230000,US,100,US,M,Senior-level,Full-time,Fully remote,12.345838935721968,False,North America,North America
+2022,EN,PT,Data Scientist,100000,USD,100000,DZ,50,DZ,M,Entry-level,Part-time,Hybrid,11.51293546492023,False,Africa,Africa
+2022,MI,FL,Data Scientist,100000,USD,100000,CA,100,US,M,Mid-level,Freelance,Fully remote,11.51293546492023,False,North America,North America
+2022,EN,CT,Applied Machine Learning Scientist,29000,EUR,31875,TN,100,CZ,M,Entry-level,Contract,Fully remote,10.36960865451764,True,Africa,Europe
+2022,SE,FT,Head of Data,200000,USD,200000,MY,100,US,M,Senior-level,Full-time,Fully remote,12.206077645517674,False,Asia,North America
+2022,MI,FT,Principal Data Analyst,75000,USD,75000,CA,100,CA,S,Mid-level,Full-time,Fully remote,11.225256725762893,False,North America,North America
+2022,MI,FT,Data Scientist,150000,PLN,35590,PL,100,PL,L,Mid-level,Full-time,Fully remote,10.479848075889779,False,Europe,Europe
+2022,SE,FT,Machine Learning Developer,100000,CAD,78791,CA,100,CA,M,Senior-level,Full-time,Fully remote,11.274566747849539,False,North America,North America
+2022,SE,FT,Data Scientist,100000,USD,100000,BR,100,US,M,Senior-level,Full-time,Fully remote,11.51293546492023,False,South America,North America
+2022,MI,FT,Machine Learning Scientist,153000,USD,153000,US,50,US,M,Mid-level,Full-time,Hybrid,11.938199736300925,False,North America,North America
+2022,EN,FT,Data Engineer,52800,EUR,58035,PK,100,DE,M,Entry-level,Full-time,Fully remote,10.968818786635575,False,Asia,Europe
+2022,SE,FT,Data Scientist,165000,USD,165000,US,100,US,M,Senior-level,Full-time,Fully remote,12.013706813470414,False,North America,North America
+2022,SE,FT,Research Scientist,85000,EUR,93427,FR,50,FR,L,Senior-level,Full-time,Hybrid,11.444946365157367,False,Europe,Europe
+2022,EN,FT,Data Scientist,66500,CAD,52396,CA,100,CA,L,Entry-level,Full-time,Fully remote,10.866604616761784,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,57000,EUR,62651,NL,100,NL,L,Senior-level,Full-time,Fully remote,11.045350883198553,False,Europe,Europe
+2022,MI,FT,Head of Data,30000,EUR,32974,EE,100,EE,S,Mid-level,Full-time,Fully remote,10.403504977585515,False,Europe,Europe
+2022,EN,FT,Data Scientist,40000,USD,40000,JP,100,MY,L,Entry-level,Full-time,Fully remote,10.596659732783579,False,Asia,Asia
+2022,MI,FT,Machine Learning Engineer,121000,AUD,87425,AU,100,AU,L,Mid-level,Full-time,Fully remote,11.37854800024191,False,Oceania,Oceania
+2022,SE,FT,Data Engineer,115000,USD,115000,US,100,US,M,Senior-level,Full-time,Fully remote,11.652696102959753,False,North America,North America
+2022,EN,FT,Data Scientist,120000,AUD,86703,AU,50,AU,M,Entry-level,Full-time,Hybrid,11.370255297805896,False,Oceania,Oceania
+2022,MI,FT,Applied Machine Learning Scientist,75000,USD,75000,BO,100,US,L,Mid-level,Full-time,Fully remote,11.225256725762893,False,South America,North America
+2022,MI,FT,Research Scientist,59000,EUR,64849,AT,0,AT,L,Mid-level,Full-time,On-site,11.07983218974459,False,Europe,Europe
+2022,EN,FT,Research Scientist,120000,USD,120000,US,100,US,L,Entry-level,Full-time,Fully remote,11.695255355062795,False,North America,North America
+2022,MI,FT,Applied Data Scientist,157000,USD,157000,US,100,US,L,Mid-level,Full-time,Fully remote,11.964007453736912,False,North America,North America
+2022,EN,FT,Computer Vision Software Engineer,150000,USD,150000,AU,100,AU,S,Entry-level,Full-time,Fully remote,11.918397239722838,False,Oceania,Oceania
+2022,MI,FT,Business Data Analyst,90000,CAD,70912,CA,50,CA,L,Mid-level,Full-time,Hybrid,11.169209052553029,False,North America,North America
+2022,EN,FT,Data Engineer,65000,USD,65000,US,100,US,S,Entry-level,Full-time,Fully remote,11.082157933374816,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,65000,EUR,71444,IE,100,IE,S,Senior-level,Full-time,Fully remote,11.17668320190307,False,Europe,Europe
+2022,EN,FT,Data Analytics Engineer,20000,USD,20000,PK,0,PK,M,Entry-level,Full-time,On-site,9.90353755128617,False,Asia,Asia
+2022,MI,FT,Data Scientist,48000,USD,48000,RU,100,US,S,Mid-level,Full-time,Fully remote,10.778977123006351,False,Europe,North America
+2022,SE,FT,Data Science Manager,152500,USD,152500,US,100,US,M,Senior-level,Full-time,Fully remote,11.934926432385152,False,North America,North America
+2022,MI,FT,Data Engineer,62000,EUR,68147,FR,100,FR,M,Mid-level,Full-time,Fully remote,11.129437089665434,False,Europe,Europe
+2022,MI,FT,Data Scientist,115000,CHF,122346,CH,0,CH,L,Mid-level,Full-time,On-site,11.714616548750014,False,Other,Other
+2022,SE,FT,Applied Data Scientist,380000,USD,380000,US,100,US,L,Senior-level,Full-time,Fully remote,12.847929163278053,False,North America,North America
+2022,MI,FT,Data Scientist,88000,CAD,69336,CA,100,CA,M,Mid-level,Full-time,Fully remote,11.146733953232388,False,North America,North America
+2022,EN,FT,Computer Vision Engineer,10000,USD,10000,PT,100,LU,M,Entry-level,Full-time,Fully remote,9.210440366976517,False,Europe,Europe
+2022,MI,FT,Data Analyst,20000,USD,20000,GR,100,GR,S,Mid-level,Full-time,Fully remote,9.90353755128617,False,Europe,Europe
+2022,SE,FT,Data Analytics Lead,405000,USD,405000,US,100,US,L,Senior-level,Full-time,Fully remote,12.91164481522143,False,North America,North America
+2022,MI,FT,Data Scientist,135000,USD,135000,US,100,US,L,Mid-level,Full-time,Fully remote,11.813037464800539,False,North America,North America
+2022,SE,FT,Applied Data Scientist,177000,USD,177000,US,100,US,L,Senior-level,Full-time,Fully remote,12.083910661257521,False,North America,North America
+2022,MI,FT,Data Scientist,78000,USD,78000,US,100,US,M,Mid-level,Full-time,Fully remote,11.264476926102367,False,North America,North America
+2022,SE,FT,Data Analyst,100000,USD,100000,US,100,US,M,Senior-level,Full-time,Fully remote,11.51293546492023,False,North America,North America
+2022,MI,FT,Data Analyst,85000,USD,85000,CA,0,CA,M,Mid-level,Full-time,On-site,11.350418300109132,False,North America,North America
+2022,MI,FT,Data Analyst,75000,USD,75000,CA,0,CA,M,Mid-level,Full-time,On-site,11.225256725762893,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,214000,USD,214000,US,100,US,M,Senior-level,Full-time,Fully remote,12.273735966890268,False,North America,North America
+2022,SE,FT,Machine Learning Engineer,192600,USD,192600,US,100,US,M,Senior-level,Full-time,Fully remote,12.16837597044068,False,North America,North America
+2022,SE,FT,Data Architect,266400,USD,266400,US,100,US,M,Senior-level,Full-time,Fully remote,12.49275797139508,False,North America,North America
+2022,SE,FT,Data Architect,213120,USD,213120,US,100,US,M,Senior-level,Full-time,Fully remote,12.269615358515345,False,North America,North America
+2022,MI,FT,Data Scientist,141300,USD,141300,US,0,US,M,Mid-level,Full-time,On-site,11.85864764578841,False,North America,North America
+2022,MI,FT,Data Scientist,102100,USD,102100,US,0,US,M,Mid-level,Full-time,On-site,11.533717798424087,False,North America,North America
+2022,SE,FT,Data Analyst,115934,USD,115934,US,100,US,M,Senior-level,Full-time,Fully remote,11.66078496820908,False,North America,North America
+2022,SE,FT,Data Analyst,81666,USD,81666,US,100,US,M,Senior-level,Full-time,Fully remote,11.310405282483078,False,North America,North America
+2022,MI,FT,Data Engineer,206699,USD,206699,US,0,US,M,Mid-level,Full-time,On-site,12.23902374566986,False,North America,North America
+2022,MI,FT,Data Engineer,99100,USD,99100,US,0,US,M,Mid-level,Full-time,On-site,11.503894811084523,False,North America,North America
+2022,SE,FT,Data Engineer,130000,USD,130000,US,100,US,M,Senior-level,Full-time,Fully remote,11.775297421715827,False,North America,North America
+2022,SE,FT,Data Engineer,110500,USD,110500,US,100,US,M,Senior-level,Full-time,Fully remote,11.612779849672751,False,North America,North America
+2022,SE,FT,Data Analyst,99050,USD,99050,US,100,US,M,Senior-level,Full-time,Fully remote,11.50339014798689,False,North America,North America
+2022,SE,FT,Data Engineer,160000,USD,160000,US,100,US,M,Senior-level,Full-time,Fully remote,11.982935344196433,False,North America,North America
+2022,SE,FT,Data Scientist,205300,USD,205300,US,0,US,L,Senior-level,Full-time,On-site,12.232232473915767,False,North America,North America
+2022,SE,FT,Data Scientist,176000,USD,176000,US,100,US,M,Senior-level,Full-time,Fully remote,12.07824495582233,False,North America,North America
+2022,SE,FT,Data Scientist,144000,USD,144000,US,100,US,M,Senior-level,Full-time,Fully remote,11.87757552297847,False,North America,North America
+2022,SE,FT,Data Engineer,200100,USD,200100,US,100,US,M,Senior-level,Full-time,Fully remote,12.206577518060588,False,North America,North America
+2022,SE,FT,Data Engineer,145000,USD,145000,US,100,US,M,Senior-level,Full-time,Fully remote,11.884495917930655,False,North America,North America
+2022,SE,FT,Data Engineer,70500,USD,70500,US,0,US,M,Senior-level,Full-time,On-site,11.163382173096926,False,North America,North America
+2022,SE,FT,Data Scientist,205300,USD,205300,US,0,US,M,Senior-level,Full-time,On-site,12.232232473915767,False,North America,North America
+2022,SE,FT,Data Scientist,140400,USD,140400,US,0,US,M,Senior-level,Full-time,On-site,11.852257893055606,False,North America,North America
+2022,SE,FT,Analytics Engineer,205300,USD,205300,US,0,US,M,Senior-level,Full-time,On-site,12.232232473915767,False,North America,North America
+2022,SE,FT,Analytics Engineer,184700,USD,184700,US,0,US,M,Senior-level,Full-time,On-site,12.12649358035784,False,North America,North America
+2022,SE,FT,Data Engineer,175100,USD,175100,US,100,US,M,Senior-level,Full-time,Fully remote,12.073118229279908,False,North America,North America
+2022,SE,FT,Data Engineer,140250,USD,140250,US,100,US,M,Senior-level,Full-time,Fully remote,11.8511889534843,False,North America,North America
+2022,SE,FT,Data Analyst,116150,USD,116150,US,100,US,M,Senior-level,Full-time,Fully remote,11.6626463477181,False,North America,North America
+2022,SE,FT,Data Engineer,54000,USD,54000,US,0,US,M,Senior-level,Full-time,On-site,10.896757843893464,False,North America,North America
+2022,MI,FT,Data Analyst,50000,GBP,65438,GB,0,GB,M,Mid-level,Full-time,On-site,11.088873689986276,False,Europe,Europe
+2022,SE,FT,Data Analyst,80000,USD,80000,US,100,US,M,Senior-level,Full-time,Fully remote,11.289794413577894,False,North America,North America
+2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Senior-level,Full-time,Fully remote,12.25486757159303,False,North America,North America
+2022,SE,FT,Data Analyst,69000,USD,69000,US,100,US,M,Senior-level,Full-time,Fully remote,11.141876276228,False,North America,North America
+2022,SE,FT,Data Analyst,150075,USD,150075,US,100,US,M,Senior-level,Full-time,Fully remote,11.918897111432843,False,North America,North America
+2022,SE,FT,Data Engineer,25000,USD,25000,US,100,US,M,Senior-level,Full-time,Fully remote,10.12667110305036,False,North America,North America
+2022,SE,FT,Data Analyst,126500,USD,126500,US,100,US,M,Senior-level,Full-time,Fully remote,11.748005492256807,False,North America,North America
+2022,SE,FT,Data Analyst,106260,USD,106260,US,100,US,M,Senior-level,Full-time,Fully remote,11.573653610839628,False,North America,North America
+2022,SE,FT,Data Engineer,220110,USD,220110,US,100,US,M,Senior-level,Full-time,Fully remote,12.301887243548784,False,North America,North America
+2022,SE,FT,Data Engineer,160080,USD,160080,US,100,US,M,Senior-level,Full-time,Fully remote,11.983435216114666,False,North America,North America
+2022,SE,FT,Data Analyst,105000,USD,105000,US,100,US,M,Senior-level,Full-time,Fully remote,11.561725152903833,False,North America,North America
+2022,SE,FT,Data Analyst,110925,USD,110925,US,100,US,M,Senior-level,Full-time,Fully remote,11.616618591306768,False,North America,North America
+2022,MI,FT,Data Analyst,35000,GBP,45807,GB,0,GB,M,Mid-level,Full-time,On-site,10.732214027337896,False,Europe,Europe
+2022,SE,FT,Data Analyst,60000,USD,60000,US,100,US,M,Senior-level,Full-time,Fully remote,11.002116507732017,False,North America,North America
+2022,SE,FT,Data Architect,192564,USD,192564,US,100,US,M,Senior-level,Full-time,Fully remote,12.16818903805254,False,North America,North America
+2022,SE,FT,Data Architect,144854,USD,144854,US,100,US,M,Senior-level,Full-time,Fully remote,11.883488521069127,False,North America,North America
+2022,SE,FT,Data Scientist,150000,USD,150000,US,100,US,M,Senior-level,Full-time,Fully remote,11.918397239722838,False,North America,North America
+2022,SE,FT,Data Analytics Manager,150260,USD,150260,US,100,US,M,Senior-level,Full-time,Fully remote,11.920129061032112,False,North America,North America
+2022,SE,FT,Data Analytics Manager,109280,USD,109280,US,100,US,M,Senior-level,Full-time,Fully remote,11.60167782556802,False,North America,North America
+2022,MI,FT,Data Scientist,160000,USD,160000,US,100,US,M,Mid-level,Full-time,Fully remote,11.982935344196433,False,North America,North America
+2022,MI,FT,Data Scientist,130000,USD,130000,US,100,US,M,Mid-level,Full-time,Fully remote,11.775297421715827,False,North America,North America
+2022,EN,FT,Data Analyst,67000,USD,67000,CA,0,CA,M,Entry-level,Full-time,On-site,11.112462823634855,False,North America,North America
+2022,EN,FT,Data Analyst,52000,USD,52000,CA,0,CA,M,Entry-level,Full-time,On-site,10.859018228147887,False,North America,North America
+2022,SE,FT,Data Engineer,154000,USD,154000,US,100,US,M,Senior-level,Full-time,Fully remote,11.944714374881176,False,North America,North America
+2022,SE,FT,Data Engineer,126000,USD,126000,US,100,US,M,Senior-level,Full-time,Fully remote,11.744045122410057,False,North America,North America
+2022,SE,FT,Data Analyst,129000,USD,129000,US,0,US,M,Senior-level,Full-time,On-site,11.767575435251748,False,North America,North America
+2022,SE,FT,Data Analyst,150000,USD,150000,US,100,US,M,Senior-level,Full-time,Fully remote,11.918397239722838,False,North America,North America
+2022,MI,FT,AI Scientist,200000,USD,200000,IN,100,US,L,Mid-level,Full-time,Fully remote,12.206077645517674,False,Asia,North America
